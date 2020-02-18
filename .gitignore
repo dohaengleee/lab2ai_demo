@@ -1,0 +1,17 @@
+env/
+
+__pycache__/
+
+*.pyc
+
+.idea/
+
+*.log
+*.png
+*.pickle
+*.pkl
+
+venv/*
+config.py
+core/Log/
+Log/
