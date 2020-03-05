@@ -7,4 +7,4 @@
 ## Author
 
   - [Lab2AI](http://lab2ai.com/)
-  - [github](https://github.com/lab2ai.com)
+  - [github](https://github.com/lab2ai)
